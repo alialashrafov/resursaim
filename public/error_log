@@ -1,0 +1,43 @@
+[26-Apr-2020 21:45:09 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:07:25 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:07:27 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:07:28 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:24:44 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:26:39 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:26:41 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:27:22 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:27:27 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:27:33 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:27:36 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:27:43 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:27:49 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:28:18 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:28:20 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:33:08 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:33:13 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:34:32 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:40:19 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:44:32 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:44:34 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:53:57 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:55:03 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:56:19 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[26-Apr-2020 22:56:36 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /hostimul/fpifocwb/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 416
+[01-May-2020 08:20:44 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[01-May-2020 08:39:29 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 03:58:11 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 04:40:01 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 05:03:52 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 05:50:00 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 05:58:14 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 06:05:46 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 06:10:04 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 06:17:56 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 06:24:28 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 06:29:13 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 06:44:25 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 06:58:59 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 07:02:21 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[12-May-2020 07:16:50 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[19-May-2020 07:32:56 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
+[20-May-2020 07:14:18 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /hostimul/fpifocwb/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 610
